@@ -1,2 +1,2 @@
 # weather_project
-Here is my first project
+Here is my first repository
